@@ -1,0 +1,14 @@
+h1 {
+    color: purple;
+    border: 2px dashed yellow;
+}
+
+li {
+    color: green;
+}
+
+body {
+    background-image: url('https://www.spacex.com/static/images/crew-3/postlaunch/Homepage_Crew3_outside_Desktop.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
