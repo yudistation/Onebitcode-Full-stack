@@ -1,0 +1,38 @@
+/*
+Cores:
+Background dos posts = #fffafa
+Cor da data = #008080
+*/
+
+body {
+    margin: 0px;
+}
+
+h1.post-title {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.post-container p.post-date {
+    font-family: 'Roboto', 'Arial', 'Open Sans';
+    font-weight: bold;
+    color: #008080;
+}
+
+.post-container div.post-content {
+    font-family: 'Open Sans', 'Arial', sans-serif;
+}
+
+div.post-container {
+    background-color: #fffafa;
+    width: 70%;
+    height: 100%;
+    margin: 0px auto 0px auto;
+}
+
+.post-container div.posts {
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    width: 90%;
+}
